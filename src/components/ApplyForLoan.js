@@ -41,7 +41,7 @@ const ApplyForLoan = () => {
         message: "Please input an amount",
       },
       {
-        pattern: /[1][0-9][0-9][0-9][0-9][0-9]+/,
+        pattern: /[1-9][0-9][0-9][0-9][0-9][0-9]+/,
         message: "Loan Amount should be greater than 100000",
       },
     ],
