@@ -1,0 +1,12 @@
+.form_div {
+  padding-top: 30vh;
+  min-width: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+.form {
+  min-width: 350px;
+}
