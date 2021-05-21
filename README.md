@@ -36,3 +36,4 @@ Technologies/libraries used:
 - Furthermore while applying for the loan, authentication is done at backend again for security reasons.
 - on clicking the logout button, the user will be logged out of the app and the locally store token will be destroyed.
 - Furthermore there is some add features for Admin user, he/she can either approve or reject a loan application.
+- Admin user can view all the loan application in the Database on his dashboard.
